@@ -1,1 +1,3 @@
-Package for interaction with network interfaces (NIC)
+Package for interaction with network interface cards (NIC).
+
+Author: Fran Jurican

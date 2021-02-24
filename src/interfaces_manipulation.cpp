@@ -1,4 +1,4 @@
-#include <network_interfaces/wireless_protocol_fj.h>
+#include <network_interfaces/network_interfaces_fj.h>
 
 using namespace wireless;
 

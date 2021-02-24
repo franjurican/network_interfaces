@@ -1,5 +1,5 @@
-#ifndef WIRELESS_PROTOCOL_FJ
-#define WIRELESS_PROTOCOL_FJ
+#ifndef NETWORK_INTERFACES_FJ
+#define NETWORK_INTERFACES_FJ
 
 #include <iostream>
 #include <iomanip>
@@ -93,4 +93,4 @@ namespace wireless
     }; // class InterfacesManipulation
 } // namespace wireless
 
-#endif // WIRELESS_PROTOCOL_FJ
+#endif // NETWORK_INTERFACES_FJ
